@@ -51,8 +51,7 @@
 
 ---?color=#F6D365
 @box[bg-orange text-white rounded demo-box-pad](@size[2.5em](감사합니다.))
-
-
+---
 
 |단계|정의|활용 Tool|
 |------|----------|----------|
