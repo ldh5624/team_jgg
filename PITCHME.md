@@ -7,8 +7,7 @@
 <br><br>류승환,김동주,신아영,김성찬,이동희
 
 ---
-
-@transition[zoom-in fade-out]
+@transition[concave]
 @box[bg-orange text-white rounded demo-box-pad](목차)
 @size[1em](1. 팀원소개)</br>
 @size[1em](2. 별명(닮은꼴)/성격)</br>
@@ -17,6 +16,7 @@
 
 
 ---
+@transition[concave]
 @size[1.5em](이동희)<br>
 ![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg)</br>
 **닮은 꼴** : 찌리리공 **성격** : 긍정왕</br>
@@ -31,6 +31,7 @@
 **연말계획은?**</br> 졸업준비 / 친구만나고 밥먹기 / 영화보기</br>
   
 ---
+@transition[concave]
 ####김동주
 @size[1.5em](김동주)<br>
 @transition[concave]
@@ -39,6 +40,7 @@
 **연말계획은?**</br> 시골에 혼자 계실 할머니와 함께 연말보내기.</br>
 
 ---
+@transition[concave]
 ####김성찬
 @size[1.5em](김성찬)<br>
 ![4](http://upload2.inven.co.kr/upload/2017/03/02/bbs/i16152406457.gif)</br>
@@ -46,6 +48,7 @@
 **연말계획은?**</br> 하스스톤 전설찍기 / 밀린 드라마 몰아서 보기.(뷰티인사이드, 미생)</br>
 	
 ---
+@transition[concave]
 ####신아영
 @size[1.5em]()<br>
 ![5](https://stickershop.line-scdn.net/stickershop/v1/product/789/LINEStorePC/main.png;compress=true)</br>
