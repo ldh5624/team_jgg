@@ -1,6 +1,7 @@
 ---
 ---?color=#F6D365
-@box[bg-orange text-white rounded demo-box-pad](Team 전국구<br> 팀원 류승환,김동주,신아영,김성찬,)
+@box[bg-orange text-white rounded demo-box-pad](Team 전국구)
+<br><br>류승환,김동주,신아영,김성찬,이동희
 
 ---
 
