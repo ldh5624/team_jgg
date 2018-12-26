@@ -7,7 +7,7 @@
 성격 : 긍정왕</br>
 연말계획은?</br>
   영화 아쿠아맨 보기 / 광주 근교 (여수)</br></br>
-![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg){: width="10%"}
+![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg){: width="10%" height="10%"}
 ---
 # 류승환
 닮은 꼴 : 곰 </br>
