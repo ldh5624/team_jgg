@@ -1,6 +1,10 @@
 ---
-# 팀 전국구
-팀원 류승환,김동주,김성찬,신아영,이동희
+# Team 전국구
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+1. 팀원소개 </br>
+2. 별명(닮은꼴)/성격 </br>
+3. 2018년 연말계획</br>
+
 ---
 ##### 이동희
 ![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg)</br>
