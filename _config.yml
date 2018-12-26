@@ -18,7 +18,7 @@ minimal_mistakes_skin  : "default" # "air", "aqua", "contrast", "dark", "dirt", 
 locale                   : "en-US"
 title                    : "Team jgg"
 title_separator          : "-"
-name                     : "ldh5624"
+name                     : "team_jgg"
 description              : "An amazing website."
 url                      : "https://ldh5624.github.io"
 baseurl                  : ""
