@@ -1,11 +1,10 @@
 ---
 ---?color=#F6D365
-
-@box[bg-orange text-white rounded demo-box-pad](Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
+@transition[zoom-in fade-out]
+@box[bg-orange text-white rounded demo-box-pad](Team 전국구<br> 팀원 류승환,김동주,신아영,김성찬,)
 
 ---
 
-@size[2em](Team 전국구)
 @transition[zoom-in fade-out]
 
 @size[1em](1. 팀원소개)</br>
