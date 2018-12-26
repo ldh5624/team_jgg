@@ -38,6 +38,8 @@
 ![5](https://lfstore-phinf.pstatic.net/MjAxODA3MTJfOTMg/MDAxNTMxMzcyNzcyMDAx.GpDIo-9DK_YI0hGmMoyLp-lcgqIiFa_9Xc4ESNrsr_sg.HFUh50eD-Bd3E7O4dvXPhhMUtj_BOJk_EGR_0VBZEwEg.JPEG/1-284.jpg)
 ---
 
-
-
+|Name|Speciality|
+|------|----------|
+|John|Java|
+|Peter|Python|
 ---
