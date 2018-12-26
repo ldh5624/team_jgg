@@ -1,4 +1,9 @@
 ---
+---?color=#F6D365
+
+@box[bg-orange text-white rounded demo-box-pad](Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.)
+
+---
 
 @size[2em](Team 전국구)
 @transition[zoom-in fade-out]
