@@ -17,16 +17,15 @@
 
 
 ---
-##### 
+
 @box[bg-orange text-white rounded demo-box-pad](이동희)
 ![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg)</br>
-
 **닮은 꼴** : 찌리리공 **성격** : 긍정왕</br>
 **연말계획은?**</br>
 아쿠아맨 보기 / 광주 근교 여행(여수)
   
 ---
-##### 
+
 @box[bg-orange text-white rounded demo-box-pad]()
 ![2](https://pbs.twimg.com/profile_images/848677347427405824/TndQaG4L_400x400.jpg)</br>
 **닮은 꼴** : 곰 **성격** : 유유자적</br>
