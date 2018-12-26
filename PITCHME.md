@@ -1,5 +1,6 @@
 ---
-@size[2em]color[orange](Team 전국구)
+@transition[zoom-in fade-out]
+@size[2em](Team 전국구)
 
 @size[1em](1. 팀원소개)  </br>
 @size[1em](2. 별명(닮은꼴)/성격)  </br>
