@@ -2,7 +2,7 @@
 @box[bg-orange text-white rounded demo-box-pad](@size[2.5em](Team 전국구))
 <br><br>류승환,김동주,신아영,김성찬,이동희
 
----
+---?color=#F6D365
 @transition[concave]
 @box[bg-orange text-white rounded demo-box-pad](목차)
 @size[1em](1. 팀원소개)</br>
@@ -11,7 +11,7 @@
 ![0](https://www.lawtechnologytoday.org/wp-content/uploads/2018/10/CROP-shutterstock_1048634258.jpg)
 
 
----
+---?color=#F6D365
 @transition[concave]
 @size[1.5em](이동희)<br>
 ![1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmumNgwR85zpAvIMowYb2zdAsm4w1U_nEuBfrJ_00V44vj8gvbOA)</br>
@@ -19,39 +19,40 @@
 **연말계획은?**</br>
 아쿠아맨 보기 / 광주 근교 여행(여수)
   
----
+---?color=#F6D365
 @transition[concave]
 @size[1.5em](류승환)<br>
 ![2](http://ullys.com/shopimages/nix6279/0960010001593.jpg?1462893249)</br>
 **닮은 꼴** : 곰 **성격** : 유유자적</br>
 **연말계획은?**</br> 졸업준비 / 친구만나고 밥먹기 / 영화보기</br>
   
----
+---?color=#F6D365
 @transition[concave]
-####김동주
 @size[1.5em](김동주)<br>
 @transition[concave]
 ![3](https://vignette.wikia.nocookie.net/webarebears/images/6/6e/Nom-Nom.png/revision/latest?cb=20151025123311&path-prefix=ko)</br>
 **닮은 꼴** : 코알라 **성격** : 배려 그 자체</br>
 **연말계획은?**</br> 시골에 혼자 계실 할머니와 함께 연말보내기.</br>
 
----
+---?color=#F6D365
 @transition[concave]
-####김성찬
 @size[1.5em](김성찬)<br>
 ![4](http://upload2.inven.co.kr/upload/2017/03/02/bbs/i16152406457.gif)</br>
 **닮은 꼴** : 나무늘보 **성격** : 차분함,여유로움</br>
 **연말계획은?**</br> 하스스톤 전설찍기 / 밀린 드라마 몰아서 보기.(뷰티인사이드, 미생)</br>
 	
----
+---?color=#F6D365
 @transition[concave]
-####신아영
 @size[1.5em]()<br>
 ![5](https://stickershop.line-scdn.net/stickershop/v1/product/789/LINEStorePC/main.png;compress=true)</br>
 **닮은 꼴** : 셀리(오리) **성격** : 똑부러진다. 예의바르다.</br>
 **연말계획은?**</br> 가족 & 친구랑 송년회 with 알코올</br>
   
----
+
+---?color=#F6D365
+@box[bg-orange text-white rounded demo-box-pad](@size[2.5em](감사합니다.))
+
+
 
 |단계|정의|활용 Tool|
 |------|----------|----------|
