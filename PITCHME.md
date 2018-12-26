@@ -4,8 +4,8 @@
 
 ---?color=#F6D365
 @transition[concave]
-@box[bg-orange text-white rounded demo-box-pad](목차)
-@size[1em](1. 팀원소개)</br>
+@box[bg-orange text-white rounded demo-box-pad](@size[2em](목차))
+@size[0.7m](1. 팀원소개)</br>
 @size[1em](2. 별명(닮은꼴)/성격)</br>
 @size[1em](3. 2018년 연말계획)</br>
 ![0](https://www.lawtechnologytoday.org/wp-content/uploads/2018/10/CROP-shutterstock_1048634258.jpg)
