@@ -15,7 +15,7 @@
 @transition[concave]
 @size[1.5em](이동희)<br>
 ![1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmumNgwR85zpAvIMowYb2zdAsm4w1U_nEuBfrJ_00V44vj8gvbOA)</br>
-**닮은 꼴** : 찌리리공 **성격** : 긍정왕</br>
+**닮은 꼴** : 찌리리공 **성격** : 긍정왕,활동적임,</br>
 **연말계획은?**</br>
 아쿠아맨 보기 / 광주 근교 여행(여수)
   
