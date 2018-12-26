@@ -9,15 +9,16 @@
 ---
 
 @transition[zoom-in fade-out]
-@box[bg-orange text-white rounded demo-box-pad](
+@box[bg-orange text-white rounded demo-box-pad](목차)
 ![0](https://www.lawtechnologytoday.org/wp-content/uploads/2018/10/CROP-shutterstock_1048634258.jpg)
 @size[1em](1. 팀원소개)</br>
 @size[1em](2. 별명(닮은꼴)/성격)</br>
-@size[1em](3. 2018년 연말계획)</br>)
+@size[1em](3. 2018년 연말계획)</br>
 
 
 ---
-##### 이동희
+##### 
+@box[bg-orange text-white rounded demo-box-pad](이동희)
 ![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg)</br>
 
 **닮은 꼴** : 찌리리공 **성격** : 긍정왕</br>
@@ -25,7 +26,8 @@
 아쿠아맨 보기 / 광주 근교 여행(여수)
   
 ---
-##### 류승환
+##### 
+@box[bg-orange text-white rounded demo-box-pad]()
 ![2](https://pbs.twimg.com/profile_images/848677347427405824/TndQaG4L_400x400.jpg)</br>
 **닮은 꼴** : 곰 **성격** : 유유자적</br>
 **연말계획은?**</br> 졸업준비 / 친구만나고 밥먹기 / 영화보기</br>
