@@ -25,26 +25,27 @@
 아쿠아맨 보기 / 광주 근교 여행(여수)
   
 ---
-
-@box[bg-orange text-white rounded demo-box-pad]()
+@transition[concave]
+@box[bg-orange text-white rounded demo-box-pad](류승환)
 ![2](https://pbs.twimg.com/profile_images/848677347427405824/TndQaG4L_400x400.jpg)</br>
 **닮은 꼴** : 곰 **성격** : 유유자적</br>
 **연말계획은?**</br> 졸업준비 / 친구만나고 밥먹기 / 영화보기</br>
   
 ---
-##### 김동주
+@box[bg-orange text-white rounded demo-box-pad](김동주)
+@transition[concave]
 ![3](https://vignette.wikia.nocookie.net/webarebears/images/6/6e/Nom-Nom.png/revision/latest?cb=20151025123311&path-prefix=ko)</br>
 **닮은 꼴** : 코알라 **성격** : 배려 그 자체</br>
 **연말계획은?**</br> 시골에 혼자 계실 할머니와 함께 연말보내기.</br>
 
 ---
-##### 김성찬
+@box[bg-orange text-white rounded demo-box-pad](김성찬)
 ![4](http://upload2.inven.co.kr/upload/2017/03/02/bbs/i16152406457.gif)</br>
 **닮은 꼴** : 나무늘보 **성격** : 차분함,여유로움</br>
 **연말계획은?**</br> 하스스톤 전설찍기 / 밀린 드라마 몰아서 보기.(뷰티인사이드, 미생)</br>
 	
 ---
-##### 신아영
+@box[bg-orange text-white rounded demo-box-pad]()
 ![5](https://stickershop.line-scdn.net/stickershop/v1/product/789/LINEStorePC/main.png;compress=true)</br>
 **닮은 꼴** : 셀리(오리) **성격** : 똑부러진다. 예의바르다.</br>
 **연말계획은?**</br> 가족 & 친구랑 송년회 with 알코올</br>
