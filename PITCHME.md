@@ -43,7 +43,7 @@
 	
 ---?color=#F6D365
 @transition[concave]
-@size[1.5em]()<br>
+@size[1.5em](신아영)<br>
 ![5](https://stickershop.line-scdn.net/stickershop/v1/product/789/LINEStorePC/main.png;compress=true)</br>
 **닮은 꼴** : 셀리(오리) **성격** : 똑부러진다. 예의바르다.</br>
 **연말계획은?**</br> 가족 & 친구랑 송년회 with 알코올</br>
