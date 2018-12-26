@@ -13,7 +13,7 @@
 @size[1em](1. 팀원소개)</br>
 @size[1em](2. 별명(닮은꼴)/성격)</br>
 @size[1em](3. 2018년 연말계획)</br>
-![0](https://www.lawtechnologytoday.org/wp-content/uploads/2018/10/CROP-shutterstock_1048634258.jpg)
+![0]@size[75%](https://www.lawtechnologytoday.org/wp-content/uploads/2018/10/CROP-shutterstock_1048634258.jpg)
 
 
 ---
