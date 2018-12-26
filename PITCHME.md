@@ -1,14 +1,15 @@
 ---
-@size[2em](Team 전국구) 
+@size[2em]color[orange](Team 전국구)
 
 @size[1em](1. 팀원소개)  </br>
-2. 별명(닮은꼴)/성격 </br>
-3. 2018년 연말계획</br>
+@size[1em](2. 별명(닮은꼴)/성격)  </br>
+@size[1em](. 2018년 연말계획)  </br>
 ![0](https://www.lawtechnologytoday.org/wp-content/uploads/2018/10/CROP-shutterstock_1048634258.jpg)
 
 ---
 ##### 이동희
 ![1](https://farm2.static.flickr.com/1500/25418673423_5a265da28b_b.jpg)</br>
+
 **닮은 꼴** : 찌리리공 **성격** : 긍정왕</br>
 **연말계획은?**</br>
 아쿠아맨 보기 / 광주 근교 여행(여수)
